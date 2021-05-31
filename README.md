@@ -3,6 +3,6 @@
 - 🌱 I’m a noobie in programming
 - 💞️ looking forward to make something useful :')
 - 📫 How to reach me: 
-     Instagram: <a src= "https://www.instagram.com/c_imane_btw/" alt= Instagram />
+     Instagram: https://www.instagram.com/c_imane_btw/
 
 
