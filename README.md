@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ImaneIK
 - 👀 hope you're happy wherever you are :3 
-- 🌱 I’m currently learning Flutter Dart Dev...
+- 🌱 I’m a noobie in programming
 - 💞️ looking forward to make something useful :')
 - 📫 How to reach me: 
-     Instagram: https://www.instagram.com/c_imane_btw/
+     Instagram: <a src= "https://www.instagram.com/c_imane_btw/" alt= Instagram ></a>
 
 
-<!---
-ImaneIK/ImaneIK is a ✨ special ✨ 
