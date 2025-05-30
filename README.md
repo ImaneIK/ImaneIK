@@ -36,7 +36,6 @@ Tech: Angular, Java
 
 ---
 
-## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
