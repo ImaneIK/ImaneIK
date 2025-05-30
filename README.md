@@ -10,7 +10,8 @@ I'm a software engineer, i build apps :)
 - 🧪 Backend APIs with Python & JavaScript (`sentiment_analysis_backend`)
 - 💻 Frontend development using Vue, React, and Flutter
 - 🛠️ DevOps explorations: Docker, Jenkins, Ansible
-- NoCode and automation : n8n
+- 🧰 NoCode and automation : n8n
+- 📚 UI design: CSS & Tailwind
 
 ---
 
@@ -65,7 +66,7 @@ Tech: Angular, Java
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 🛠️ Work in progress... but so is the entire tech stack.
 
 
 
