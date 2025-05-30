@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imane Khayati
 
-I'm a software engineer, i build apps :)
+I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite your entire codebase if need be :)
 
 ---
 
