@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imane Khayati
+# 👋 Hi, I'm Imane
 
 I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite your entire codebase if need be :)
 
