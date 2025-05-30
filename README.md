@@ -1,3 +1,62 @@
+# 👋 Hi, I'm Imane Khayati
+
+I'm a software engineer, i build apps :)
+
+---
+
+## 💼 What I Do
+
+- 🧠 AI & Machine Learning projects (`StockVision`, `leafai`)
+- 🧪 Backend APIs with Python & JavaScript (`sentiment_analysis_backend`)
+- 💻 Frontend development using Vue, React, and Flutter
+- 🛠️ DevOps explorations: Docker, Jenkins, Ansible
+- NoCode and automation : n8n
+
+---
+
+## 🚀 Highlight Projects
+
+Here are some featured projects I'm proud of:
+
+### 🧠 [StockVision](https://github.com/ImaneIK/StockVision)
+> Predicting stock prices using machine learning  
+Tech: Python, scikit-learn, pandas, React, Flask
+
+### 🌱 [LeafAI](https://github.com/ImaneIK/leafai)
+> An AI-powered tool to diagnose plant diseases  
+Tech: Jupyter, TensorFlow, React, fast-api
+
+### 💬 [Sentiment Analysis App](https://github.com/ImaneIK/sentiment_analysis_backend)
+> Analyze text sentiment with custom-built backend & frontend  
+Tech: Python, React, flask
+
+### 📚 [Mindscape](https://github.com/ImaneIK/Mindscape)
+> A virtual library experience for literature lovers  
+Tech: Angular, Java
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [Imane Khayati](https://www.linkedin.com/in/imane-khayati/)
+- Portfolio [(Portfolio)](https://imanekhayati.vercel.app/)
+- Email: *imane.khayati@e-polytechnique.ma*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 
 
