@@ -28,8 +28,6 @@ I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite yo
 ![trophy](https://github-profile-trophy.vercel.app/?username=ImaneIK&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
 ---
 
 ## 🚀 Highlight Projects
