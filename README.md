@@ -25,10 +25,7 @@ I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite yo
 ![Imane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImaneIK&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneIK&layout=compact&theme=radical)
 ![Imane's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImaneIK&theme=react-dark&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImaneIK&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- GitHub metrics -->
-<img src="https://github.com/ImaneIK/ImaneIK/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-![GitHub Streak](https://streak-stats.demolab.com?user=ImaneIK&theme=tokyonight&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=ImaneIK&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
