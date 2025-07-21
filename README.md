@@ -2,6 +2,11 @@
 
 I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite your entire codebase if need be :)
 
+- 🛠 I build web apps (full-stack)
+- 🤖 I love AI projects
+- 🌍 Open to freelance & remote collabs
+- 🧘‍♀️ Tech keeps me sane... most of the time.
+
 ---
 
 ## 💼 What I Do
@@ -12,6 +17,21 @@ I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite yo
 - 🛠️ DevOps explorations: Docker, Jenkins, Ansible
 - 🧰 NoCode and automation : n8n
 - 📚 UI design: CSS & Tailwind
+
+---
+
+## 📊 GitHub Stats
+
+![Imane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImaneIK&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneIK&layout=compact&theme=radical)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ImaneIK.ImaneIK)
+![GitHub Streak](https://streak-stats.demolab.com?user=ImaneIK&theme=tokyonight&hide_border=true)
+![Imane's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImaneIK&theme=react-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImaneIK&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub metrics -->
+<img src="https://github.com/ImaneIK/ImaneIK/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
+
 
 ---
 
