@@ -73,7 +73,7 @@ Tech: Angular, Java
 ## 📫 Let’s Connect
 
 - LinkedIn: [Imane Khayati](https://www.linkedin.com/in/imane-khayati/)
-- Portfolio [(Portfolio)]((https://portfolio-imaneiks-projects.vercel.app/))
+- Portfolio [(Portfolio)](https://portfolio-imaneiks-projects.vercel.app/)
 - Email: *imane.khayati@e-polytechnique.ma*
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ImaneIK.ImaneIK)
 
