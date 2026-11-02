@@ -3,21 +3,18 @@
 I'm a software engineer, i build apps, Fix Bugs, Add New Features And rewrite your entire codebase if need be :)
 
 - 🛠 I build web apps (full-stack)
-- 🤖 I love AI projects
 - 🌍 Open to freelance & remote collabs
-- 🧘‍♀️ Tech keeps me sane... most of the time.
 
 ---
 
 ## 💼 What I Do
 
-- 🧠 AI & Machine Learning projects (`StockVision`, `leafai`)
-- 🧪 Backend APIs with Python & JavaScript (`sentiment_analysis_backend`)
 - 💻 Frontend development using Vue, React, and Flutter
+- 🧪 Backend APIs with Python & JavaScript (`sentiment_analysis_backend`)
+- 🧠 AI & Machine Learning projects (`StockVision`, `leafai`)
 - 🛠️ DevOps explorations: Docker, Jenkins, Ansible
 - 🧰 NoCode and automation : n8n
-- 📚 UI design: CSS & Tailwind
-
+  
 ---
 
 ## 📊 GitHub Stats
